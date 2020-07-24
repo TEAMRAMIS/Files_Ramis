@@ -302,5 +302,5 @@ end
 
 end
 return {
-RAMIS = Reply
+Boyka = Reply
 }
