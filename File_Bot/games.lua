@@ -591,5 +591,5 @@ end
 
 end
 return {
-Boyka = games
+Poyka = games
 }
