@@ -511,5 +511,5 @@ end
 
 end
 return {
-Boyka = Reply
+Poyka = Reply
 }
