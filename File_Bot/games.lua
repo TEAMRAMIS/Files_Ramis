@@ -30,7 +30,7 @@ Text_Games = [[
  ✸∫ لعبه الحزوره ~⪼لعبة التفكير 
  ✸∫ لعبه المعاني ~⪼ العبه الشهيره 
 •━━━━━━━━━━━━━•ٴ
-彡 .[ 𝘊𝘩𝘢𝘯𝘯𝘦𝘭](t.me/TEAMRAMIS)➢
+彡 .[ 𝘊𝘩𝘢𝘯𝘯𝘦𝘭](t.me/znznn)➢
 ]]
 send(msg.chat_id_, msg.id_,Text_Games) 
 end
